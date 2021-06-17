@@ -1,0 +1,109 @@
+.header{
+ 	min-height: 100px;
+ 	background-color: darkblue;
+}
+.head{
+	padding: 50px;
+	text-align: center;
+	color: white;
+	font-size: 22px ;
+}
+.container{
+	overflow: hidden;
+	border: 10px solid silver;
+}
+.contact{
+	float:left;
+	width: 70%;
+	min-height: 170px;
+ 	background-color: tomato;
+}
+.column1{
+	float: left;
+	width: 33.33%;
+	min-height: 150px;
+}
+
+.blog{
+	float:right;
+	width: 30%;
+	min-height: 216px;
+ 	background-color: darkred;
+}
+.head1{
+	padding-top: 70px;
+	padding-right: 35px;
+	text-align: center;
+	color: white;
+	font-size: 18px ;
+}
+.box{
+	overflow: hidden;
+}
+.head2{
+	padding: 5px;
+	text-align: center;
+	color: Black;
+	font-size: 22px ;
+}
+.single{
+	float: left;
+	width: 33.33%;
+	min-height: 140px;
+}
+.pink{
+	background-color: pink;
+}
+.purple{
+	background-color: purple;
+} 
+.violet{
+	background-color: violet;
+}
+.box1{
+	overflow: hidden;
+}
+.images{
+	float: left;
+	width: 30%;
+	min-height: 150px;
+	margin-left: 45px;
+}
+.text {
+  border: 1px solid gray;
+  padding: 8px;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  color: #4CAF50;
+}
+
+p {
+  text-indent: 50px;
+  text-align: justify;
+  letter-spacing: 3px;
+}
+
+a {
+  text-decoration: none;
+  color: #008CBA;
+}
+.footer{
+ 	min-height: 100px;
+ 	background-color: skyblue;
+}
+.table{
+	margin-left: 585px;
+}
+.video{
+	width:560px;
+	min-height:315px;
+	margin-left: 490px;
+}
+.map{
+	width: 100%;
+	height: 350px;
+	border:0;
+}
